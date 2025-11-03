@@ -1,1 +1,0 @@
-# Product-catalog-with-filters.
